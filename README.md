@@ -4,6 +4,13 @@
 
 This project aims to build an image captioning model using a combination of Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) with an attention mechanism. The model takes an image as input and generates a caption that describes the contents of the image.
 
+```
+a couple of soccer players are playing on top of a field.
+a couple of women playing games a soccer ball.
+a soccer player is trying to get a ball and a soccer ball.
+a young boy playing with a soccer ball.
+two girls play in the air with a soccer ball on him.
+```
 ![Sample Captioned Image](sample_images/sport.jpg)
 
 ## Dependencies
